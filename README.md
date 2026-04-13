@@ -10,6 +10,7 @@ So far it’s only been tested with the original 5 megapixel Pi camera, and clon
 
 ## Files
 
+- **assembly-closeup.jpg** A close-up picture showing how the camera bracket works.
 - **LICENSE** CERN OHL as per the Tanmatsu case.
 - **source STL files.zip** Original case files. Unzip if you want to build in OpenSCAD.
 - **tanmatsu camera back for Pi camera.stl** The camera back, that takes the Pi module.

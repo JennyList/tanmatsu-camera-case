@@ -1,5 +1,7 @@
 ﻿# A rear camera case for the Tanmatsu
 
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B41FD5UE)
+
 This repository contains the parts for a rear case for the Tanmatsu handheld computer, designed to hold a Raspberry Pi camera module.
 
 There are three parts, the case, which comes in two versions for older and newer Tanmatsu versions, the camera back with mounting for a Pi camera module, and a camera bracket which sits behind the module in order for the module mounting screws to have something to screw into. They fit together with small self-tapping screws.
